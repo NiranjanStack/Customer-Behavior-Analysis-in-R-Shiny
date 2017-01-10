@@ -5,6 +5,8 @@ The dataset has previous five years purchase transactions of customers. Predicti
 algorithms to find the most frequent item sets purchased.
 
 Aprioir Algorithms : To generate associatin rules and find the most frequent item sets.
-Support Vector Machines : To prefict the month of the year in which the sales of a particular item is maximum.
+Support Vector Machines : To predict the month of the year in which the sales of a particular item is maximum.
 
 Shiny (Library in R) is used to display the results.
+Shiny Dashboard: https://niranjanrshiny.shinyapps.io/Prediction_App/
+
